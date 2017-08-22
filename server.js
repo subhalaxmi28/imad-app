@@ -13,7 +13,7 @@ var articles= {
     date: '28th August,2017',
     content:`
             <p>
-            this is My Second page
+            this is My First page
             </p>`
     
 },
