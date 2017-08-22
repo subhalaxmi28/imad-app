@@ -11,15 +11,8 @@ var articleone={
     date: '28th August,2017',
     content:`
             <p>
-            this is Me
-            </p>
-             <p>
-            this is Me
-            </p>
-             <p>
-            this is Me
-            </p>
-        `
+            this is My First page
+            </p>`
     
 };
 function createTemplate(data){
@@ -47,6 +40,7 @@ var htmlTemplate=`
         <div>
             ${date}
         </div>
+        <div>
         ${content}
         </div>
         </div>
