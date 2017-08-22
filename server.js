@@ -9,7 +9,7 @@ var content={
     title: 'Article-one|Subhalaxmi Basu',
     heading: 'Article-One',
     date: '28th August,2017',
-    content:`<div>
+    content:`
             <p>
             this is Me
             </p>
@@ -19,7 +19,7 @@ var content={
              <p>
             this is Me
             </p>
-        </div>`
+        `
     
 };
 function createTemplate(data){
