@@ -32,11 +32,12 @@ var htmlTemplate=`
         <div class="container">
         <div>
             <a href="/">Home</a>
-            </div>
+        </div>
         <div>
-        <h3>
+           <h3>
             ${heading}
-        </h3>
+           </h3>
+        </div>
         <div>
             ${date}
         </div>
